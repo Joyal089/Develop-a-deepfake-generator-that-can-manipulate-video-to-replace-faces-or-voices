@@ -12,4 +12,4 @@ Deepfake Generator: Face and Voice Manipulation Guide
 5) Dataset and Data Processing Tools : CelebA Dataset , VoxCeleb/VCTK Dataset .
 6) Post-Processing Tools : Audacity ,Adobe Premiere Pro or DaVinci Resolve . 
 7)  Other Essential Libraries : NumPy , Imageio[ffmpeg] , Pillow , Psutil .
->>>>>>> dee0a169db00ff190ce98f9e69ef3b55451be52a
+
